@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sirmons Site Locker 1.0.0\n"
+"POT-Creation-Date: 2015-04-30 14:19+0100\n"
+"PO-Revision-Date: 2015-04-30 14:51+0100\n"
+"Last-Translator: test <test@test.test>\n"
+"Language-Team: Nathanaël SIRMONS <trad-sirn-site-locker@audaxland.fr>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: template header
+msgid "Default template"
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:73
+msgid "Theme template"
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:80
+msgid "Parent theme tempate"
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:80
+msgid "Parent theme"
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:85
+msgid "Child theme tempate"
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:85
+msgid "Child theme"
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:99
+msgid "Default image"
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:100
+msgid "No background image"
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:199
+msgid "Settings for the Sirmons Site Locker plugin"
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:209
+msgid "What page to display for non logged-in visitors ?"
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:219
+msgid ""
+"Display a template form the Sirmons Site Locker plugin or from the sirn-site-"
+"locker.php file in your theme"
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:226
+msgid "Select a template : "
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:246
+msgid "Choose a background Color : "
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:261
+msgid "Select a Background Image : "
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:280
+msgid "Logo url : "
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:293
+msgid "Title : "
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:306
+msgid "Sub-title : "
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:319
+msgid "Message : "
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:332
+msgid "Display site name : "
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:338
+#: includes/class-sirn-site-locker-admin.php:358
+#: includes/class-sirn-site-locker-admin.php:378
+msgid "Yes"
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:342
+#: includes/class-sirn-site-locker-admin.php:362
+#: includes/class-sirn-site-locker-admin.php:382
+msgid "No"
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:352
+msgid "Display site description : "
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:372
+msgid "Display login form : "
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:399
+msgid "Redirect the visitors to a specific url"
+msgstr ""
+
+#: includes/class-sirn-site-locker-admin.php:406
+msgid "Redirection url : "
+msgstr ""
+
+#: includes/class-sirn-site-locker-settings.php:37
+msgid "This Website is currently under construction"
+msgstr ""
+
+#: includes/class-sirn-site-locker-settings.php:38
+msgid "Comming soon, on this page : "
+msgstr ""

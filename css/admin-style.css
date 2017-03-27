@@ -1,0 +1,35 @@
+@CHARSET "UTF-8";
+
+.sirn-site-locker-deny-option-radio {
+	font-size: 1.2em ;
+	font-weight: bold;
+	padding: 0.5em 0;
+	display: inline-block;
+}
+
+#sirn-site-locker-template-details, #sirn-site-locker-redirection-details {
+	padding-left: 8em;
+	padding-bottom: 2em;
+}
+
+.sirn-site-locker-deny-option-details > table {
+	border: 1px solid #ccc;
+	padding: 1em 2em;
+	border-radius: 1em;
+	background: #fcfccf;
+}
+
+.sirn-site-locker-deny-option-details > table th {
+	text-align: right;
+	padding-right: 1em;
+	vertical-align: top;
+}
+
+.sirn-site-locker-deny-option-details > table td {
+	vertical-align: top;
+}
+
+label.sirn-site-locker-admin-sub-option {
+	display: block;
+	padding: 0.2em 0 0.5em;
+}

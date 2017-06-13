@@ -100,8 +100,8 @@
 			
 			<?php if( Sirn_Site_Locker_Front::with_login_form() ) : ?>
 				<div id="connexion-box">
-					<a href="<?php echo site_url( '/wp-login.php' ) ; ?>" onclick="displayLoginForm(); return false;" id="show-connexion-form">S'identifier</a>
-					<a href="#" onclick="hideLoginForm(); return false;" id="hide-connexion-form">Masquer le formulaire</a>
+					<a href="<?php echo site_url( '/wp-login.php' ) ; ?>" onclick="displayLoginForm(); return false;" id="show-connexion-form"><?php  _e( 'Login', 'sirnslocktd' ) ;?></a>
+					<a href="#" onclick="hideLoginForm(); return false;" id="hide-connexion-form"><?php  _e( 'Hide login form', 'sirnslocktd' ) ;?></a>
 					<div id="connexion-form">
 						<?php wp_login_form();?>
 					</div>

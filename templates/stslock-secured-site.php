@@ -58,14 +58,14 @@
 </head>
 <body>
 	<div id="stslock-message-box">
-		<h2>Ce site est r&eacute;rerv&eacute; aux membres</h2>
-		<h3><em>Vous devez &ecirc;tre connect&eacute; pour acc&eacute au site : </em></h3>
+		<h2><?php _e( 'This website is restricted to members only', 'sirnslocktd' ) ;?></h2>
+		<h3><em><?php _e( 'You must be logged in to access this website', 'sirnslocktd' ) ;?></em></h3>
 		<h1><?php bloginfo( 'name' ) ;?></h1>
 		<h3><?php bloginfo( 'description' ) ;?></h3>
 		
 		<div id="connexion-box">
-			<a href="<?php echo site_url( '/wp-login.php' ) ; ?>" onclick="displayLoginForm(); return false;" id="show-connexion-form">S'identifier</a>
-			<a href="#" onclick="hideLoginForm(); return false;" id="hide-connexion-form">Masquer le formulaire</a>
+			<a href="<?php echo site_url( '/wp-login.php' ) ; ?>" onclick="displayLoginForm(); return false;" id="show-connexion-form"><?php  _e( 'Login', 'sirnslocktd' ) ;?></a>
+			<a href="#" onclick="hideLoginForm(); return false;" id="hide-connexion-form"><?php  _e( 'Hide login form', 'sirnslocktd' ) ;?></a>
 			<div id="connexion-form">
 				<?php wp_login_form();?>
 			</div>
